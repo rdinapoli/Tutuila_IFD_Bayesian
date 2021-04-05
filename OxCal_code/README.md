@@ -26,4 +26,4 @@ All Bayesian model code and results are located in the [Morrison_etal_Tutuila_IF
 
 `LU_Ridgeline_v2.oxcal` is the model for the Ridgelines land unit.
 
-`Final_results_order_v2.oxcal` is takes all the Boundary start estimates from the Land Unit models above (exported as `.prior` files) and calculates their settlement order probabilities. A table shoing the results of this ordering can be found in `final_results_order_v2.csv` and a figure is available in `Final_results_order_v2.svg`.
+`Final_results_order_v2.oxcal` takes all the `Boundary` start estimates from the Land Unit models above (exported as `.prior` files) and calculates their settlement order probabilities. A table shoing the results of this ordering can be found in `final_results_order_v2.csv` and a figure is available in `Final_results_order_v2.svg`.
