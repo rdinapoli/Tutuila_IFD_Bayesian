@@ -3,7 +3,7 @@ This repository contains Bayesian calibration models presented in Morrison,A.E.,
 
 ## Bayesian models
 
-All Bayesian models were conducted in OxCal v. 4.4.2 using the IntCal20 radiocarbon calibration curve (Reimer et al. 2020).
+All Bayesian models were conducted in OxCal v. 4.4.2. All Tutuila radiocarbon dates were calibrated using the IntCal20 radiocarbon calibration curve (Reimer et al. 2020), and all unidentified charcoal dates are modeled as charcoal outliers following Dee and Bronk Ramsey (2014).
 
 OxCal code and results can be found in the folder ...
 
@@ -11,8 +11,13 @@ Note that these models rely on the Reef/Santa Cruz Islands colonization estimate
 
 ## References
 
+Dee MW, Bronk Ramsey C (2014) High-Precision Bayesian Modeling of Samples Susceptible to Inbuilt Age. Radiocarbon 56:83–94. https://doi.org/10.2458/56.16685
+
 Heaton TJ, Köhler P, Butzin M, et al (2020) Marine20—The Marine Radiocarbon Age Calibration Curve (0–55,000 cal BP). Radiocarbon 62:779–820. https://doi.org/10.1017/RDC.2020.68 
+
 Reimer PJ, Austin WEN, Bard E, et al (2020) The IntCal20 Northern Hemisphere Radiocarbon Age Calibration Curve (0–55 cal kBP). Radiocarbon 62:725–757. https://doi.org/10.1017/RDC.2020.41
+
 Reimer RW, Reimer PJ (2017) An Online Application for ΔR Calculation. Radiocarbon 59:1623–1627. https://doi.org/10.1017/RDC.2016.117
+
 Sheppard PJ, Chiu S, Walter R (2015) Re-dating Lapita Movement into Remote Oceania. Journal of Pacific Archaeology 6:26–36
 
