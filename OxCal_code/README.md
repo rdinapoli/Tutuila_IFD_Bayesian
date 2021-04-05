@@ -1,6 +1,6 @@
 All Bayesian model code and results are located in the [Morrison_etal_Tutuila_IFD_Final](./Morrison_etal_Tutuila_IFD_Final) directory. The script to run each model has a `.oxcal` file extention, and results have the extensions `.js`,`.log`,`.txt`,and `.prior`. The `.prior` files result from exporting and saving the `Boundary()` Start estimates from each model.
 
-`SC_Nanggu_Colonization.oxcal` contains the single-phase Bayesian colonization model for the Reef/Santa Cruz Islands presented in Sheppard et al. (2015). Note that this model uses an updated marine reservoir correction for Marine20. The Boundary start estimate from this model, `SC_colonization.prior` are used as a prior constraint on the Boundary start estimate for each of the Tutuila Land Units.
+`SC_Nanggu_Colonization.oxcal` contains the single-phase Bayesian colonization model for the Reef/Santa Cruz Islands presented in Sheppard et al. (2015). Note that this model uses an updated marine reservoir correction for Marine20. The Boundary start estimate from this model, `SC_colonization.prior` is used as a prior constraint on the Boundary start estimate for each of the Tutuila Land Units.
 
 `LU_3350_v2.oxcal` is the model for Fagali'i land unit.
 
