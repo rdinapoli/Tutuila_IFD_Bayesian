@@ -1,0 +1,36 @@
+ Options()
+ {
+  kIterations=100;
+ };
+ // Delta_R values updated for Marine20
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Sequence("SC Nanggu")
+  {
+   Boundary("SC_colonization");
+   Phase("1")
+   {
+    Curve("IntCal20","intcal20.14c");
+    R_Date("NZA-53689", 2710, 15)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("NZA-53697", 2768, 15)
+    {
+     Outlier("Charcoal", 1);
+    };
+    Curve("Marine20","marine20.14c");
+    Delta_R("LocalMarine",-93,36);
+    R_Date("SUA-112", 3140, 70);
+    R_Date("Wk-12305", 3149, 57);
+    R_Date("Wk-12304", 3192, 51);
+    R_Date("SUA-111", 3250, 70);
+    R_Date("NZA-53598", 3137, 24);
+    R_Date("NZA-53597", 3121, 24);
+    R_Date("NZA-53601", 3180, 24);
+    R_Date("NZA-53599", 3189, 24);
+   };
+   Boundary("End 1");
+  };
+ };

@@ -1,0 +1,227 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+100
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Exp(1,-10,0)
+  68.3% probability
+    -1 (68.3%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.3% probability
+    0 (68.3%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+SC_colonization Prior(Morisson_etal_Tutuila_IFD_Final/SC_colonization.prior)
+  68.3% probability
+    962BC (68.3%) 865BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+( After 
+After()
+  68.3% probability
+    -900 (68.3%) ...
+  95.4% probability
+    -855 (95.4%) ...
+) After 
+Start LU-Ridgeline_v2 Boundary()
+Beta-193195 R_Date(720,40)
+  68.3% probability
+    1265AD (61.7%) 1301AD
+    1370AD ( 6.5%) 1378AD
+  95.4% probability
+    1225AD (80.9%) 1311AD
+    1361AD (14.6%) 1387AD
+Beta-193196 R_Date(670,40)
+  68.3% probability
+    1281AD (37.3%) 1313AD
+    1361AD (31.0%) 1387AD
+  95.4% probability
+    1274AD (51.9%) 1328AD
+    1344AD (43.6%) 1396AD
+Beta-194326 R_Date(640,40)
+  68.3% probability
+    1295AD (29.4%) 1324AD
+    1355AD (38.9%) 1392AD
+  95.4% probability
+    1284AD (95.4%) 1398AD
+Beta-193194 R_Date(690,40)
+  68.3% probability
+    1276AD (45.2%) 1305AD
+    1365AD (23.1%) 1384AD
+  95.4% probability
+    1263AD (61.4%) 1327AD
+    1350AD (34.0%) 1395AD
+Beta-120572 R_Date(710,50)
+  68.3% probability
+    1265AD (50.6%) 1307AD
+    1364AD (17.6%) 1385AD
+  95.4% probability
+    1222AD (71.2%) 1325AD
+    1353AD (24.2%) 1394AD
+NZ-7598 R_Date(602,50)
+  68.3% probability
+    1305AD (53.5%) 1365AD
+    1384AD (14.8%) 1401AD
+  95.4% probability
+    1291AD (95.4%) 1420AD
+NZ-7594 R_Date(580,63)
+  68.3% probability
+    1307AD (45.1%) 1364AD
+    1385AD (23.2%) 1415AD
+  95.4% probability
+    1291AD (95.4%) 1436AD
+NZ-A375 R_Date(580,110)
+  68.3% probability
+    1296AD (68.3%) 1431AD
+  95.4% probability
+    1221AD (93.1%) 1521AD
+    1585AD ( 2.4%) 1623AD
+Beta-194325 R_Date(570,40)
+  68.3% probability
+    1321AD (41.4%) 1358AD
+    1390AD (26.9%) 1416AD
+  95.4% probability
+    1302AD (56.5%) 1369AD
+    1379AD (39.0%) 1429AD
+NZ-7596 R_Date(521,55)
+  68.3% probability
+    1328AD (13.5%) 1346AD
+    1395AD (54.8%) 1443AD
+  95.4% probability
+    1302AD (30.1%) 1369AD
+    1380AD (65.3%) 1460AD
+( Phase 1
+1 Phase()
+) Phase 1
+End LU-Ridgeline_v2 Boundary()
+C_Date(1830)
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+( Before 
+Before()
+  68.3% probability
+    ... (68.3%) 1830
+  95.4% probability
+    ... (95.4%) 1830
+) Before 
+( Sequence LU-Ridgeline_v2
+LU-Ridgeline_v2 Sequence()
+) Sequence LU-Ridgeline_v2
+i : Using logs - function probability low
+Posterior 
+( MCMC(100000)
+Overall agreement  83.3%
+Dynamic agreement  86.7%
+Charcoal Posterior 
+  68.3% probability
+    -12 (68.3%) 2
+  95.4% probability
+    -53 (95.4%) 2
+Posterior 
+Posterior 
+  68.3% probability
+    0 (68.3%) 1
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+SC_colonization Posterior 
+  68.3% probability
+    962BC (68.3%) 864BC
+  95.4% probability
+    1055BC (95.4%) 835BC
+ Agreement  99.7%
+Start LU-Ridgeline_v2 Posterior 
+  68.3% probability
+    1267AD (30.2%) 1299AD
+    1342AD (38.1%) 1377AD
+  95.4% probability
+    1251AD (95.4%) 1383AD
+Beta-193195 Posterior 
+  68.3% probability
+    1284AD (16.3%) 1300AD
+    1362AD (51.9%) 1385AD
+  95.4% probability
+    1271AD (34.2%) 1320AD
+    1356AD (61.2%) 1391AD
+ Agreement  67.4%
+Beta-193196 Posterior 
+  68.3% probability
+    1295AD (10.1%) 1306AD
+    1358AD (58.2%) 1389AD
+  95.4% probability
+    1279AD (29.9%) 1328AD
+    1345AD (65.6%) 1395AD
+ Agreement 104.5%
+Beta-194326 Posterior 
+  68.3% probability
+    1304AD (10.2%) 1316AD
+    1355AD (58.1%) 1390AD
+  95.4% probability
+    1291AD (95.4%) 1396AD
+ Agreement 107.4%
+Beta-193194 Posterior 
+  68.3% probability
+    1290AD (17.2%) 1309AD
+    1361AD (51.1%) 1391AD
+  95.4% probability
+    1278AD (34.1%) 1334AD
+    1346AD (61.3%) 1401AD
+ Agreement  93.2%
+Beta-120572 Posterior 
+  68.3% probability
+    1287AD (18.4%) 1310AD
+    1360AD (49.9%) 1391AD
+  95.4% probability
+    1274AD (34.8%) 1335AD
+    1342AD (60.6%) 1400AD
+ Agreement  92.8%
+NZ-7598 Posterior 
+  68.3% probability
+    1314AD ( 7.6%) 1325AD
+    1343AD (60.7%) 1392AD
+  95.4% probability
+    1297AD (95.4%) 1407AD
+ Agreement 104.0%
+NZ-7594 Posterior 
+  68.3% probability
+    1329AD (68.3%) 1391AD
+  95.4% probability
+    1296AD (95.4%) 1412AD
+ Agreement 103.2%
+NZ-A375 Posterior 
+  68.3% probability
+    1310AD ( 6.7%) 1320AD
+    1340AD (61.6%) 1393AD
+  95.4% probability
+    1286AD (95.4%) 1413AD
+ Agreement 121.5%
+Beta-194325 Posterior 
+  68.3% probability
+    1325AD (68.3%) 1385AD
+  95.4% probability
+    1305AD (95.4%) 1410AD
+ Agreement  94.5%
+NZ-7596 Posterior 
+  68.3% probability
+    1326AD (68.3%) 1386AD
+  95.4% probability
+    1304AD (95.4%) 1420AD
+ Agreement  64.3%
+End LU-Ridgeline_v2 Posterior 
+  68.3% probability
+    1365AD (68.3%) 1420AD
+  95.4% probability
+    1314AD (95.4%) 1449AD
+Posterior 
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+ Agreement 100.0%
+) MCMC(1600000)

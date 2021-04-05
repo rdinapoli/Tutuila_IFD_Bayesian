@@ -1,0 +1,128 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+100
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Exp(1,-10,0)
+  68.3% probability
+    -1 (68.3%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.3% probability
+    0 (68.3%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+SC_colonization Prior(Morisson_etal_Tutuila_IFD_Final/SC_colonization.prior)
+  68.3% probability
+    962BC (68.3%) 865BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+( After 
+After()
+  68.3% probability
+    -900 (68.3%) ...
+  95.4% probability
+    -855 (95.4%) ...
+) After 
+Start LU-4545_v2 Boundary()
+WK-11506 R_Date(1396,44)
+  68.3% probability
+    605AD (68.3%) 663AD
+  95.4% probability
+    573AD (91.3%) 684AD
+    744AD ( 4.1%) 772AD
+WK-11507 R_Date(1218,40)
+  68.3% probability
+    710AD ( 2.4%) 714AD
+    783AD (65.9%) 880AD
+  95.4% probability
+    677AD (22.2%) 750AD
+    757AD (71.9%) 893AD
+    930AD ( 1.4%) 942AD
+( Phase 1
+1 Phase()
+) Phase 1
+End LU-4545_v2 Boundary()
+C_Date(1830)
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+( Before 
+Before()
+  68.3% probability
+    ... (68.3%) 1830
+  95.4% probability
+    ... (95.4%) 1830
+) Before 
+( Sequence LU-4545_v2
+LU-4545_v2 Sequence()
+) Sequence LU-4545_v2
+Posterior 
+( MCMC(100000)
+Overall agreement  96.6%
+Dynamic agreement  96.5%
+Charcoal Posterior 
+  68.3% probability
+    -55 (68.3%) 2
+  95.4% probability
+    -328 (95.4%) 2
+Posterior 
+Posterior 
+  68.3% probability
+    0 ( 2.1%) 0
+    0 ( 6.5%) 0
+    0 ( 2.6%) 0
+    1 (57.0%) 2
+  95.4% probability
+    0 (95.4%) 3
+ Agreement 100.0%
+SC_colonization Posterior 
+  68.3% probability
+    962BC (68.3%) 866BC
+  95.4% probability
+    1056BC (95.4%) 835BC
+ Agreement  99.6%
+Start LU-4545_v2 Posterior 
+  68.3% probability
+    221AD (67.7%) 817AD
+    828AD ( 0.4%) 836AD
+    848AD ( 0.2%) 851AD
+  95.4% probability
+    833BC ( 0.1%) 824BC
+    814BC ( 0.1%) 807BC
+    772BC ( 0.1%) 764BC
+    754BC ( 0.2%) 739BC
+    714BC ( 0.2%) 702BC
+    686BC (94.6%) 941AD
+    948AD ( 0.2%) 959AD
+WK-11506 Posterior 
+  68.3% probability
+    603AD (60.7%) 715AD
+    746AD ( 7.6%) 775AD
+  95.4% probability
+    572AD (95.4%) 1001AD
+ Agreement  97.4%
+WK-11507 Posterior 
+  68.3% probability
+    704AD (17.0%) 749AD
+    774AD (51.3%) 895AD
+  95.4% probability
+    670AD (95.4%) 1079AD
+ Agreement  95.3%
+End LU-4545_v2 Posterior 
+  68.3% probability
+    720AD (68.0%) 1209AD
+    1214AD ( 0.2%) 1217AD
+  95.4% probability
+    695AD (95.4%) 1710AD
+Posterior 
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+ Agreement 100.0%
+) MCMC(1600000)

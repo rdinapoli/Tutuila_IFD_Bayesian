@@ -1,0 +1,182 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+100
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Exp(1,-10,0)
+  68.3% probability
+    -1 (68.3%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.3% probability
+    0 (68.3%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+SC_colonization Boundary()
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+NZA-53689 R_Date(2710,15)
+  68.3% probability
+    897BC (35.3%) 870BC
+    841BC (32.9%) 819BC
+  95.4% probability
+    900BC (95.4%) 814BC
+NZA-53697 R_Date(2768,15)
+  68.3% probability
+    931BC (49.3%) 896BC
+    871BC (18.9%) 845BC
+  95.4% probability
+    979BC (12.0%) 949BC
+    937BC (83.4%) 836BC
+Marine20 Curve(marine20.14c)
+Marine data from Heaton et al (2020)
+LocalMarine Delta_R(-93,36)
+  68.3% probability
+    -131 (68.3%) -55
+  95.4% probability
+    -166 (95.4%) -21
+SUA-112 R_Date(3140,70)
+  68.3% probability
+    1035BC (68.3%) 809BC
+  95.4% probability
+    1187BC (95.4%) 741BC
+Wk-12305 R_Date(3149,57)
+  68.3% probability
+    1035BC (68.3%) 824BC
+  95.4% probability
+    1166BC (95.4%) 761BC
+Wk-12304 R_Date(3192,51)
+  68.3% probability
+    1102BC (68.3%) 887BC
+  95.4% probability
+    1203BC (95.4%) 799BC
+SUA-111 R_Date(3250,70)
+  68.3% probability
+    1191BC (68.3%) 940BC
+  95.4% probability
+    1303BC (95.4%) 821BC
+NZA-53598 R_Date(3137,24)
+  68.3% probability
+    998BC (68.3%) 829BC
+  95.4% probability
+    1101BC (95.4%) 775BC
+NZA-53597 R_Date(3121,24)
+  68.3% probability
+    977BC (68.3%) 816BC
+  95.4% probability
+    1083BC (95.4%) 762BC
+NZA-53601 R_Date(3180,24)
+  68.3% probability
+    1068BC (68.3%) 883BC
+  95.4% probability
+    1156BC (95.4%) 805BC
+NZA-53599 R_Date(3189,24)
+  68.3% probability
+    1079BC (68.3%) 894BC
+  95.4% probability
+    1170BC (95.4%) 811BC
+( Phase 1
+1 Phase()
+) Phase 1
+End 1 Boundary()
+( Sequence SC Nanggu
+SC Nanggu Sequence()
+) Sequence SC Nanggu
+i : Using logs - function probability low
+Posterior 
+( MCMC(100000)
+Overall agreement  93.7%
+Dynamic agreement 114.6%
+Charcoal Posterior 
+  68.3% probability
+    -12 (68.3%) 2
+  95.4% probability
+    -51 (95.4%) 2
+Posterior 
+Posterior 
+  68.3% probability
+    0 (68.3%) 1
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+SC_colonization Posterior 
+  68.3% probability
+    962BC (68.3%) 865BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+NZA-53689 Posterior 
+  68.3% probability
+    899BC (68.3%) 854BC
+  95.4% probability
+    906BC (95.4%) 815BC
+ Agreement  93.3%
+NZA-53697 Posterior 
+  68.3% probability
+    919BC (45.1%) 885BC
+    875BC (23.2%) 849BC
+  95.4% probability
+    963BC ( 1.4%) 951BC
+    935BC (94.1%) 822BC
+ Agreement 105.8%
+LocalMarine Posterior 
+  68.3% probability
+    -86 (68.3%) -32
+  95.4% probability
+    -115 (95.4%) -7
+ Agreement  85.3%
+SUA-112 Posterior 
+  68.3% probability
+    916BC (68.3%) 842BC
+  95.4% probability
+    978BC (95.4%) 806BC
+ Agreement 126.1%
+Wk-12305 Posterior 
+  68.3% probability
+    917BC (68.3%) 843BC
+  95.4% probability
+    980BC (95.4%) 806BC
+ Agreement 120.0%
+Wk-12304 Posterior 
+  68.3% probability
+    921BC (68.3%) 845BC
+  95.4% probability
+    990BC (95.4%) 811BC
+ Agreement  91.5%
+SUA-111 Posterior 
+  68.3% probability
+    924BC (68.3%) 845BC
+  95.4% probability
+    1001BC (95.4%) 811BC
+Warning! Poor agreement - A= 59.1%(A'c= 60.0%)
+ Poor agreement  59.1%
+NZA-53598 Posterior 
+  68.3% probability
+    915BC (68.3%) 843BC
+  95.4% probability
+    972BC (95.4%) 807BC
+ Agreement 119.7%
+NZA-53597 Posterior 
+  68.3% probability
+    912BC (68.3%) 844BC
+  95.4% probability
+    965BC (95.4%) 806BC
+ Agreement 124.9%
+NZA-53601 Posterior 
+  68.3% probability
+    921BC (68.3%) 845BC
+  95.4% probability
+    988BC (95.4%) 812BC
+ Agreement  91.8%
+NZA-53599 Posterior 
+  68.3% probability
+    921BC (68.3%) 846BC
+  95.4% probability
+    990BC (95.4%) 813BC
+ Agreement  84.4%
+End 1 Posterior 
+  68.3% probability
+    886BC (68.3%) 821BC
+  95.4% probability
+    901BC (95.4%) 774BC
+) MCMC(1600000)

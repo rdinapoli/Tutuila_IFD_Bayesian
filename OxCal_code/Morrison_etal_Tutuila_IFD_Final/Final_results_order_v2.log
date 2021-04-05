@@ -1,0 +1,188 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+Start_LU_7053_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_7053_v2.prior)
+  68.3% probability
+    -808 (28.6%) -739
+    -719 (39.7%) -604
+  95.4% probability
+    -884 (95.4%) -541
+Start_LU_3577_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_3577_v2.prior)
+  68.3% probability
+    -524 (68.3%) -358
+  95.4% probability
+    -703 (95.4%) -227
+Start_LU_7254_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_7254_v2.prior)
+  68.3% probability
+    -698 (68.3%) -221
+  95.4% probability
+    -957 (95.4%) 17
+Start_LU_9497_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_9497_v2.prior)
+  68.3% probability
+    -326 (68.3%) -225
+  95.4% probability
+    -424 (95.4%) -205
+Start_LU_7469_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_7469_v2.prior)
+  68.3% probability
+    -222 (68.3%) -56
+  95.4% probability
+    -361 (95.4%) 44
+Start_LU_3679_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_3679_v2.prior)
+  68.3% probability
+    -51 (68.3%) 116
+  95.4% probability
+    -294 (95.4%) 201
+Start_LU_4686_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_4686_v2.prior)
+  68.3% probability
+    111 (68.3%) 602
+  95.4% probability
+    -835 ( 0.3%) -818
+    -808 ( 0.4%) -782
+    -767 ( 0.4%) -742
+    -737 (94.4%) 708
+Start_LU_4545_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_4545_v2.prior)
+  68.3% probability
+    222 (67.7%) 818
+    829 ( 0.4%) 837
+    848 ( 0.2%) 852
+  95.4% probability
+    -832 ( 0.1%) -823
+    -813 ( 0.1%) -805
+    -771 ( 0.1%) -763
+    -752 ( 0.2%) -738
+    -713 ( 0.2%) -701
+    -684 (94.6%) 942
+    949 ( 0.2%) 959
+Start_LU_8745_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_8745_v2.prior)
+  68.3% probability
+    664 (62.6%) 782
+    787 ( 5.6%) 803
+  95.4% probability
+    551 (95.4%) 886
+Start_LU_984_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_984_v2.prior)
+  68.3% probability
+    412 (68.3%) 1121
+  95.4% probability
+    -666 ( 0.1%) -658
+    -613 (95.2%) 1268
+    1278 ( 0.2%) 1291
+Start_LU_3350_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_3350_v2.prior)
+  68.3% probability
+    754 (68.3%) 1175
+  95.4% probability
+    -396 (95.4%) 1340
+Start_LU_Ridgeline_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_Ridgeline_v2.prior)
+  68.3% probability
+    1267 (30.2%) 1300
+    1342 (38.1%) 1378
+  95.4% probability
+    1251 (95.4%) 1384
+Start_LU_5284_v2 Prior(Morisson_etal_Tutuila_IFD_Final/Start_LU_5284_v2.prior)
+  68.3% probability
+    1274 (40.1%) 1321
+    1350 (28.2%) 1386
+  95.4% probability
+    1224 (95.4%) 1401
+Order()
+Posterior 
+( MCMC(30000)
+Overall agreement  99.2%
+Dynamic agreement  99.0%
+Start_LU_7053_v2 Posterior 
+  68.3% probability
+    -808 (29.5%) -735
+    -719 (38.8%) -605
+  95.4% probability
+    -885 (95.4%) -540
+ Agreement  99.8%
+Start_LU_3577_v2 Posterior 
+  68.3% probability
+    -525 (68.3%) -357
+  95.4% probability
+    -709 (95.4%) -226
+ Agreement  99.8%
+Start_LU_7254_v2 Posterior 
+  68.3% probability
+    -697 (68.3%) -224
+  95.4% probability
+    -959 (95.4%) 16
+ Agreement 100.2%
+Start_LU_9497_v2 Posterior 
+  68.3% probability
+    -326 (68.3%) -224
+  95.4% probability
+    -421 (95.4%) -205
+ Agreement 100.1%
+Start_LU_7469_v2 Posterior 
+  68.3% probability
+    -223 (68.3%) -56
+  95.4% probability
+    -360 (95.4%) 45
+ Agreement  99.9%
+Start_LU_3679_v2 Posterior 
+  68.3% probability
+    -51 (68.3%) 116
+  95.4% probability
+    -292 (95.4%) 202
+ Agreement  99.8%
+Start_LU_4686_v2 Posterior 
+  68.3% probability
+    101 ( 0.4%) 108
+    119 (67.9%) 602
+  95.4% probability
+    -838 ( 1.3%) -756
+    -750 ( 0.3%) -732
+    -720 (93.9%) 709
+ Agreement  99.8%
+Start_LU_4545_v2 Posterior 
+  68.3% probability
+    221 ( 1.6%) 251
+    257 (66.2%) 819
+    830 ( 0.4%) 837
+    848 ( 0.2%) 852
+  95.4% probability
+    -831 ( 0.1%) -822
+    -776 ( 0.4%) -746
+    -685 (94.8%) 942
+    951 ( 0.1%) 959
+ Agreement 100.0%
+Start_LU_8745_v2 Posterior 
+  68.3% probability
+    664 (68.3%) 804
+  95.4% probability
+    544 (95.4%) 881
+ Agreement  99.8%
+Start_LU_984_v2 Posterior 
+  68.3% probability
+    384 ( 0.1%) 387
+    409 ( 0.3%) 415
+    425 (67.9%) 1122
+  95.4% probability
+    -677 ( 0.2%) -659
+    -647 ( 0.1%) -637
+    -614 ( 0.2%) -600
+    -592 ( 0.2%) -573
+    -566 (94.5%) 1271
+    1277 ( 0.2%) 1293
+ Agreement  99.7%
+Start_LU_3350_v2 Posterior 
+  68.3% probability
+    754 (68.3%) 1175
+  95.4% probability
+    -480 ( 0.1%) -468
+    -378 (95.4%) 1343
+ Agreement  99.8%
+Start_LU_Ridgeline_v2 Posterior 
+  68.3% probability
+    1267 (30.3%) 1301
+    1341 (38.0%) 1378
+  95.4% probability
+    1250 (95.4%) 1384
+ Agreement  99.1%
+Start_LU_5284_v2 Posterior 
+  68.3% probability
+    1274 (39.7%) 1321
+    1348 (28.6%) 1386
+  95.4% probability
+    1224 (95.4%) 1401
+ Agreement  99.3%
+) MCMC(960000)

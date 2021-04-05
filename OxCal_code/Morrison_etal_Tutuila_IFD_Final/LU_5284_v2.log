@@ -1,0 +1,157 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+100
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Exp(1,-10,0)
+  68.3% probability
+    -1 (68.3%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.3% probability
+    0 (68.3%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+SC_colonization Prior(Morisson_etal_Tutuila_IFD_Final/SC_colonization.prior)
+  68.3% probability
+    962BC (68.3%) 865BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+( After 
+After()
+  68.3% probability
+    -900 (68.3%) ...
+  95.4% probability
+    -855 (95.4%) ...
+) After 
+Start LU-5284_v2 Boundary()
+Beta-171845 R_Date(710,40)
+  68.3% probability
+    1270AD (57.4%) 1302AD
+    1369AD (10.9%) 1379AD
+  95.4% probability
+    1229AD ( 3.8%) 1246AD
+    1255AD (70.3%) 1321AD
+    1358AD (21.3%) 1390AD
+Beta-180372 R_Date(650,50)
+  68.3% probability
+    1286AD (33.6%) 1323AD
+    1356AD (34.6%) 1392AD
+  95.4% probability
+    1277AD (95.4%) 1401AD
+AA-51256 R_Date(635,35)
+  68.3% probability
+    1298AD (28.0%) 1323AD
+    1355AD (40.3%) 1392AD
+  95.4% probability
+    1288AD (95.4%) 1398AD
+Beta-171844 R_Date(630,40)
+  68.3% probability
+    1299AD (27.6%) 1326AD
+    1352AD (40.7%) 1394AD
+  95.4% probability
+    1287AD (95.4%) 1401AD
+AA-51257 R_Date(625,35)
+  68.3% probability
+    1300AD (28.2%) 1327AD
+    1350AD (40.1%) 1395AD
+  95.4% probability
+    1292AD (95.4%) 1401AD
+( Phase 1
+1 Phase()
+) Phase 1
+End LU-5284_v2 Boundary()
+C_Date(1830)
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+( Before 
+Before()
+  68.3% probability
+    ... (68.3%) 1830
+  95.4% probability
+    ... (95.4%) 1830
+) Before 
+( Sequence LU-5284_v2
+LU-5284_v2 Sequence()
+) Sequence LU-5284_v2
+Posterior 
+( MCMC(100000)
+Overall agreement 100.4%
+Dynamic agreement  99.6%
+Charcoal Posterior 
+  68.3% probability
+    -12 (68.3%) 2
+  95.4% probability
+    -63 (95.4%) 2
+Posterior 
+Posterior 
+  68.3% probability
+    0 (68.3%) 1
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+SC_colonization Posterior 
+  68.3% probability
+    962BC (68.3%) 864BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+ Agreement  99.8%
+Start LU-5284_v2 Posterior 
+  68.3% probability
+    1274AD (40.1%) 1320AD
+    1350AD (28.2%) 1385AD
+  95.4% probability
+    1223AD (95.4%) 1400AD
+Beta-171845 Posterior 
+  68.3% probability
+    1289AD (29.9%) 1319AD
+    1365AD (38.3%) 1393AD
+  95.4% probability
+    1275AD (95.4%) 1408AD
+ Agreement  83.6%
+Beta-180372 Posterior 
+  68.3% probability
+    1299AD (26.5%) 1326AD
+    1361AD (41.7%) 1396AD
+  95.4% probability
+    1286AD (95.4%) 1411AD
+ Agreement 107.7%
+AA-51256 Posterior 
+  68.3% probability
+    1301AD (26.6%) 1327AD
+    1360AD (41.7%) 1395AD
+  95.4% probability
+    1291AD (95.4%) 1410AD
+ Agreement 104.5%
+Beta-171844 Posterior 
+  68.3% probability
+    1302AD (25.8%) 1327AD
+    1359AD (42.5%) 1396AD
+  95.4% probability
+    1291AD (95.4%) 1411AD
+ Agreement 104.7%
+AA-51257 Posterior 
+  68.3% probability
+    1303AD (26.1%) 1327AD
+    1360AD (42.2%) 1395AD
+  95.4% probability
+    1293AD (95.4%) 1410AD
+ Agreement 102.8%
+End LU-5284_v2 Posterior 
+  68.3% probability
+    1311AD (14.9%) 1336AD
+    1367AD (53.4%) 1422AD
+  95.4% probability
+    1299AD (95.4%) 1475AD
+Posterior 
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+ Agreement 100.0%
+) MCMC(3200000)

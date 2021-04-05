@@ -1,0 +1,136 @@
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Atmospheric data from Reimer et al (2020)
+100
+OxCal v4.4.2 Bronk Ramsey (2020); r:5
+Exp(1,-10,0)
+  68.3% probability
+    -1 (68.3%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.3% probability
+    0 (68.3%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+IntCal20 Curve(intcal20.14c)
+Atmospheric data from Reimer et al (2020)
+SC_colonization Prior(Morisson_etal_Tutuila_IFD_Final/SC_colonization.prior)
+  68.3% probability
+    962BC (68.3%) 865BC
+  95.4% probability
+    1054BC (95.4%) 835BC
+( After 
+After()
+  68.3% probability
+    -900 (68.3%) ...
+  95.4% probability
+    -855 (95.4%) ...
+) After 
+Start LU-7254_v2 Boundary()
+Beta-120575 R_Date(2310,50)
+  68.3% probability
+    413BC (44.8%) 354BC
+    284BC (23.5%) 230BC
+  95.4% probability
+    537BC ( 0.3%) 533BC
+    517BC (60.2%) 345BC
+    318BC (35.0%) 203BC
+Beta-120576 R_Date(2110,100)
+  68.3% probability
+    351BC (13.3%) 290BC
+    209BC (49.8%) 28BC
+    19BC ( 5.2%) 8AD
+  95.4% probability
+    388BC (94.2%) 83AD
+    97AD ( 1.3%) 114AD
+( Phase 1
+1 Phase()
+) Phase 1
+End LU-7254_v2 Boundary()
+C_Date(1830)
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+( Before 
+Before()
+  68.3% probability
+    ... (68.3%) 1830
+  95.4% probability
+    ... (95.4%) 1830
+) Before 
+( Sequence LU-7254_v2
+LU-7254_v2 Sequence()
+) Sequence LU-7254_v2
+Posterior 
+( MCMC(100000)
+Overall agreement  98.3%
+Dynamic agreement  97.9%
+Charcoal Posterior 
+  68.3% probability
+    -76 (68.3%) 2
+  95.4% probability
+    -593 ( 0.3%) -576
+    -566 (95.2%) 2
+Posterior 
+Posterior 
+  68.3% probability
+    0 ( 1.1%) 0
+    0 (12.4%) 1
+    1 ( 2.8%) 1
+    1 (10.0%) 1
+    1 (41.5%) 2
+    2 ( 0.5%) 2
+  95.4% probability
+    0 (92.4%) 3
+    3 ( 3.1%) 3
+ Agreement 100.0%
+SC_colonization Posterior 
+  68.3% probability
+    965BC (68.3%) 866BC
+  95.4% probability
+    1060BC (95.4%) 835BC
+ Agreement  98.6%
+Start LU-7254_v2 Posterior 
+  68.3% probability
+    700BC (68.3%) 223BC
+  95.4% probability
+    958BC (95.4%) 16AD
+Beta-120575 Posterior 
+  68.3% probability
+    407BC (28.5%) 325BC
+    316BC (39.8%) 180BC
+  95.4% probability
+    532BC (95.1%) 279AD
+    299AD ( 0.3%) 322AD
+ Agreement  98.5%
+Beta-120576 Posterior 
+  68.3% probability
+    351BC (68.3%) 24BC
+  95.4% probability
+    399BC (95.4%) 373AD
+ Agreement  99.0%
+End LU-7254_v2 Posterior 
+  68.3% probability
+    351BC (68.3%) 540AD
+  95.4% probability
+    367BC (88.7%) 1292AD
+    1297AD ( 0.9%) 1341AD
+    1348AD ( 0.6%) 1382AD
+    1388AD ( 0.3%) 1403AD
+    1418AD ( 0.1%) 1425AD
+    1446AD ( 0.2%) 1454AD
+    1477AD ( 0.2%) 1485AD
+    1517AD ( 0.2%) 1534AD
+    1583AD ( 0.2%) 1592AD
+    1616AD ( 0.2%) 1627AD
+    1632AD ( 0.3%) 1648AD
+    1656AD ( 3.6%) 1826AD
+Posterior 
+  68.3% probability
+    1829AD (68.3%) 1830AD
+  95.4% probability
+    1829AD (95.4%) 1830AD
+ Agreement 100.0%
+) MCMC(1600000)

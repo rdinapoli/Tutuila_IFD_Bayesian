@@ -1,0 +1,49 @@
+ Options()
+ {
+  kIterations=100;
+ };
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Curve("IntCal20","intcal20.14c");
+  Sequence("LU-7053_v2")
+  {
+   After()
+   {
+    Prior("SC_colonization","\Morisson_etal_Tutuila_IFD_Final/SC_colonization.prior");
+   };
+   Boundary("Start LU-7053_v2");
+   Phase("1")
+   {
+    R_Date("Beta-218343", 2570, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-228302", 2540, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-218273", 2530, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-228301", 2500, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-231699", 2410, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-120571", 2400, 110)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End LU-7053_v2");
+   Before()
+   {
+    C_Date(1830);
+   };
+  };
+ };
